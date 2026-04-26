@@ -79,17 +79,6 @@ Click Save and Build Now.
 ##  Pipeline Execution (Screenshots)
 #### I have used port 5001 instead of 5000 as port 5000 is occupied on another service.
 
-### Before adding data: 
-<img width="940" height="377" alt="image" src="https://github.com/user-attachments/assets/a4aca7b1-c7b4-458a-b92d-38984bfc3d7c" />
-
-### Adding new record:
-<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/0d6cdd20-7a92-46b7-bebc-d3e5238541bc" />
-
-### After adding a new record:
-<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/02c28cf8-d33d-4977-8ebf-16328dc39a4b" />
-
-### The new records are updated in DB too:
-<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/f19b88a8-5922-422f-9b8a-de9e08f5513c" />
 
 ### Output of Python app.py file from VS code:
 <img width="940" height="676" alt="image" src="https://github.com/user-attachments/assets/4140aeb4-aa19-461a-9ba8-1f54af372226" />
